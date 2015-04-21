@@ -22,6 +22,5 @@ script:
   - cd sample
   - lein test
 
-
 archive: true
 #cache: true 
