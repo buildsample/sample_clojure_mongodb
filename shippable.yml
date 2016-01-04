@@ -8,7 +8,7 @@ lein:
 services:
   - mongodb
 
-build_image: drydock/u12clopls:tip
+build_image: drydock/u14clopls:tip
 # Create directories for test and coverage reports
 before_script:
   - mkdir -p shippable/testresults
