@@ -4,4 +4,4 @@
 
 (deftest a-test
   (testing "Simple MongoDB query"
-    (is (= "Lennon" (-main "John")))))
+    (is (= "Lennon" (-main "Joahn")))))
